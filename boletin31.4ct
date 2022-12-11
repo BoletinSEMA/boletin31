@@ -1,84 +1,84 @@
 \expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
-\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Editorial}}{2}\relax 
-\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-2}{}{Editorial}}{2}\relax 
-\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-2000}{QQ2-1-3}{Palabras del presidente}}{4}\relax 
-\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-4}{}{Palabras del presidente}}{4}\relax 
-\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-30001}{QQ2-1-5}{XXVII CEDYA / XVII CMA}}{6}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-3002}{}{\numberline {1}{\ignorespaces Inauguración del XXVII CEDYA / XVII CMA en la sala Ramón y Cajal de la Facultad de Medicina\relax }}}{8}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-3004}{}{\numberline {2}{\ignorespaces Fotografía de los premiados en el XXVII CEDYA / XVII CMA\relax }}}{11}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-3006}{}{\numberline {3}{\ignorespaces Equipo de voluntarios del XXVII CEDYA / XVII CMA\relax }}}{15}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-3008}{}{\numberline {4}{\ignorespaces Fotografía de los participantes en el XXVII CEDYA / XVII CMA\relax }}}{21}\relax 
-\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-40002}{QQ2-1-10}{XVIII International Conference on Hyperbolic Problems. Theory Numerics and Applications (HYP2022)}}{23}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-4002}{}{\numberline {5}{\ignorespaces Fotografía de grupo de los asistentes al congreso HYP2022.\relax }}}{26}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-4004}{}{\numberline {6}{\ignorespaces Acto de apertura del congreso HYP2022.\relax }}}{29}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-4006}{}{\numberline {7}{\ignorespaces Prof. James Glimm en su intervención por videoconferencia.\relax }}}{30}\relax 
-\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-50002}{QQ2-1-14}{II Premio Peter Lax}}{30}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-5002}{}{\numberline {8}{\ignorespaces Maria Colombo, galardonada con el II Premio Peter Lax.\relax }}}{30}\relax 
-\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-60002}{QQ2-1-16}{II Conferencia James Glimm}}{31}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-6002}{}{\numberline {9}{\ignorespaces Benoît Perthame, galardonado con el II Conferencia James Glimm.\relax }}}{31}\relax 
-\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-70002}{QQ2-1-18}{Premio Springer a las mejores contribuciones orales realizadas por estudiantes de doctorado}}{31}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-7002}{}{\numberline {10}{\ignorespaces Alessia del Grosso, galardonada con el premio Springer a la mejor contribución oral realizada por estudiantes de doctorado.\relax }}}{33}\relax 
-\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-80002}{QQ2-1-20}{Conferencias plenarias}}{34}\relax 
-\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-90002}{QQ2-1-21}{Conferencias semiplenarias}}{35}\relax 
-\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-100002}{QQ2-1-22}{Comunicaciones orales y p\'osteres}}{35}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-10002}{}{\numberline {11}{\ignorespaces Prof. Philip Roe presentando una comunicación oral en el HYP2022.\relax }}}{36}\relax 
-\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-110002}{QQ2-1-24}{Actos sociales}}{36}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-11002}{}{\numberline {12}{\ignorespaces Imagen de la Cena de Gala del congreso HYP2022.\relax }}}{36}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-11004}{}{\numberline {13}{\ignorespaces Comunicación de la sede para el HYP2024.\relax }}}{38}\relax 
-\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-120003}{QQ2-1-27}{Noticias}}{40}\relax 
-\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-130003.1}{QQ2-1-28}{Asamblea General de la SEMA 2022}}{40}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-13002}{}{\numberline {14}{\ignorespaces Manuel J. Castro Díaz (presidente) y Fernando de Terán Vergara (secretario) durante la Asamblea de la SEMA 2022.\relax }}}{44}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-13004}{}{\numberline {15}{\ignorespaces Manuel J. Castro Díaz recuerda la celebración del ICIAM2023 en Tokio.\relax }}}{44}\relax 
-\doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{1}{x1-140003.2}{QQ2-1-31}{Dos nuevos miembros en el Consejo Ejecutivo de la SEMA}}{46}\relax 
-\doTocEntry\tocsubsubsection{3.2.1}{\csname a:TocLink\endcsname{1}{x1-150003.2.1}{QQ2-1-32}{Luca Fanelli}}{46}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-15002}{}{\numberline {16}{\ignorespaces Prof. Luca Fanelli.\relax }}}{46}\relax 
-\doTocEntry\tocsubsubsection{3.2.2}{\csname a:TocLink\endcsname{1}{x1-160003.2.2}{QQ2-1-34}{Bego\~na Cant\'o Colomina}}{47}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-16002}{}{\numberline {17}{\ignorespaces Profa. Begoña Cantó.\relax }}}{47}\relax 
-\doTocEntry\tocsubsection{3.3}{\csname a:TocLink\endcsname{1}{x1-170003.3}{QQ2-1-36}{Nombramiento de tres nuevos correspondientes en la Secci\'on de Matem\'aticas de la RAC}}{49}\relax 
-\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-180003.3}{QQ2-1-37}{Ver\'onica Bol\'on Canedo}}{49}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-18002}{}{\numberline {18}{\ignorespaces Verónica Bolón Canedo.\relax }}}{49}\relax 
-\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-190003.3}{QQ2-1-39}{Alberto Enciso Carrasco}}{50}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-19002}{}{\numberline {19}{\ignorespaces Alberto Enciso Carrasco.\relax }}}{50}\relax 
-\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-200003.3}{QQ2-1-41}{Xavier Ros Ot\'on}}{52}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-20002}{}{\numberline {20}{\ignorespaces Xavier Ros Otón.\relax }}}{52}\relax 
-\doTocEntry\tocsubsection{3.4}{\csname a:TocLink\endcsname{1}{x1-210003.4}{QQ2-1-43}{V Concurso de Modelizaci\'on Matem\'atica del Instituto de Matem\'atica Interdisciplinar (IMI)}}{53}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-21002}{}{\numberline {21}{\ignorespaces Primer Premio: Tomás Ricardo Basile (izquierda) y Jessica Andrea Gallegos (derecha), de la Universidad Nacional Autónoma de México.\relax }}}{55}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-21004}{}{\numberline {22}{\ignorespaces Segundo Premio: Sergio Sanjurjo e Irene Corral de la Universidad de Oviedo.\relax }}}{58}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-21006}{}{\numberline {23}{\ignorespaces Tercer Premio: Jorge Herranz, Adrián Gutiérrez y Enric Morellà de la Universidad Compluetense de Madrid.\relax }}}{58}\relax 
-\doTocEntry\tocsubsection{3.5}{\csname a:TocLink\endcsname{1}{x1-220003.5}{QQ2-1-47}{Adjudicadas 60 Becas Leonardo a Investigadores y Creadores Culturales 2022 de la Fundaci\'on BBVA}}{60}\relax 
-\doTocEntry\tocsubsection{3.6}{\csname a:TocLink\endcsname{1}{x1-230003.6}{QQ2-1-48}{El BCAM logra su tercera acreditaci\'on de excelencia <<Severo Ochoa>>}}{62}\relax 
-\doTocEntry\tocsubsection{3.7}{\csname a:TocLink\endcsname{1}{x1-240003.7}{QQ2-1-49}{<<Mujeres de Ciencia>>, una nueva iniciativa de la Fundaci\'on Real Academia de Ciencias}}{62}\relax 
-\doTocEntry\tocsubsection{3.8}{\csname a:TocLink\endcsname{1}{x1-250003.8}{QQ2-1-50}{Jornada sobre Doctorado Industrial en la Universidad de Sevilla, octubre 2022}}{64}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-25002}{}{\numberline {24}{\ignorespaces Mercedes Fernández Arévalo (Directora EIDUS)\relax }}}{66}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-25004}{}{\numberline {25}{\ignorespaces Lluis Alsedà (CRM)\relax }}}{69}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-25006}{}{\numberline {26}{\ignorespaces Mª Luisa Rapún (UPM)\relax }}}{72}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-25008}{}{\numberline {27}{\ignorespaces Andrés Prieto (CITMAga)\relax }}}{75}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-25010}{}{\numberline {28}{\ignorespaces Juan Valverde (Virtualmech) y José Miguel Díaz-Báñez (US)\relax }}}{78}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-25012}{}{\numberline {29}{\ignorespaces Miguel Camacho (PD Matemáticas, US)\relax }}}{81}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-25014}{}{\numberline {30}{\ignorespaces Cartel Jornada sobre Doctorado Industrial en la US\relax }}}{84}\relax 
-\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-25016}{}{\numberline {31}{\ignorespaces Programa de la Jornada sobre Doctorado Industrial en la US\relax }}}{87}\relax 
-\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-260004}{QQ2-1-59}{Anuncios}}{90}\relax 
-\doTocEntry\tocsubsection{4.1}{\csname a:TocLink\endcsname{1}{x1-270004.1}{QQ2-1-60}{Convocatoria del XXVI Premio SEMA <<Antonio Valle>> al Joven Investigador (2023)}}{90}\relax 
-\doTocEntry\tocsubsubsection{4.1.1}{\csname a:TocLink\endcsname{1}{x1-280004.1.1}{QQ2-1-61}{Pre\'ambulo}}{90}\relax 
-\doTocEntry\tocsubsubsection{4.1.2}{\csname a:TocLink\endcsname{1}{x1-290004.1.2}{QQ2-1-62}{Bases Generales}}{90}\relax 
-\doTocEntry\tocsubsubsection{4.1.3}{\csname a:TocLink\endcsname{1}{x1-300004.1.3}{QQ2-1-63}{Bases particulares de la convocatoria 2023}}{92}\relax 
-\doTocEntry\tocsubsection{4.2}{\csname a:TocLink\endcsname{1}{x1-310004.2}{QQ2-1-64}{Premio ECCOMAS a las dos mejores tesis de 2022}}{94}\relax 
-\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-320004.2}{QQ2-1-65}{Candidatos}}{94}\relax 
-\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-330004.2}{QQ2-1-66}{Documentaci\'on y env\IeC {\'\i }o}}{94}\relax 
-\doTocEntry\tocsubsection{4.3}{\csname a:TocLink\endcsname{1}{x1-340004.3}{QQ2-1-67}{Plaza posdoctoral en la Universidad de Pav\IeC {\'\i }a, Italia}}{96}\relax 
-\doTocEntry\tocsubsection{4.4}{\csname a:TocLink\endcsname{1}{x1-350004.4}{QQ2-1-68}{Abierto el plazo para enviar sesiones especiales al ILAS 2023}}{98}\relax 
-\doTocEntry\tocsubsection{4.5}{\csname a:TocLink\endcsname{1}{x1-360004.5}{QQ2-1-69}{Foundation of Computational Mathematics 2023}}{98}\relax 
-\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-370004.5}{QQ2-1-70}{Plenary lecturers for FoCM 2023}}{99}\relax 
-\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-380004.5}{QQ2-1-71}{Workshops for FoCM 2023}}{99}\relax 
-\doTocEntry\tocsubsection{4.6}{\csname a:TocLink\endcsname{1}{x1-390004.6}{QQ2-1-72}{2nd Spanish Fluid Mechanics Conference}}{101}\relax 
-\doTocEntry\tocsubsection{4.7}{\csname a:TocLink\endcsname{1}{x1-400004.7}{QQ2-1-73}{Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}}{102}\relax 
-\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-410004.7}{QQ2-1-74}{Entradas en el blog}}{102}\relax 
-\doTocEntry\tocsubsection{4.8}{\csname a:TocLink\endcsname{1}{x1-420004.8}{QQ2-1-75}{Basque Center for Applied Mathematics}}{107}\relax 
-\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-430004.8}{QQ2-1-76}{Scientific activities}}{107}\relax 
-\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-440004.8}{QQ2-1-77}{Open positions}}{110}\relax 
-\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-450005}{QQ2-1-78}{SEMA \textit  {Journal}}}{112}\relax 
-\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-460006}{QQ2-1-79}{Ilustraci\'on de la portada}}{117}\relax 
-\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-470007}{QQ2-1-80}{Socios institucionales}}{119}\relax 
-\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-480007}{QQ2-1-81}{Hacerse socio de la SEMA es muy sencillo, y barato}}{124}\relax 
-\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-82}{}{Hacerse socio de la SEMA es muy sencillo, y barato}}{124}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{2}{x2-1000}{QQ2-2-1}{Editorial}}{2}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{2}{Q1-2-2}{}{Editorial}}{2}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{3}{x3-2000}{QQ2-3-3}{Palabras del presidente}}{5}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{3}{Q1-3-4}{}{Palabras del presidente}}{5}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{4}{x4-30001}{QQ2-4-5}{XXVII CEDYA / XVII CMA}}{8}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-3002}{}{\numberline {1}{\ignorespaces Inauguración del XXVII CEDYA / XVII CMA en la sala Ramón y Cajal de la Facultad de Medicina\relax }}}{10}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-3004}{}{\numberline {2}{\ignorespaces Fotografía de los premiados en el XXVII CEDYA / XVII CMA\relax }}}{13}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-3006}{}{\numberline {3}{\ignorespaces Equipo de voluntarios del XXVII CEDYA / XVII CMA\relax }}}{17}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-3008}{}{\numberline {4}{\ignorespaces Fotografía de los participantes en el XXVII CEDYA / XVII CMA\relax }}}{23}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{5}{x5-40002}{QQ2-5-10}{XVIII International Conference on Hyperbolic Problems. Theory Numerics and Applications (HYP2022)}}{26}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{5}{x5-4002}{}{\numberline {5}{\ignorespaces Fotografía de grupo de los asistentes al congreso HYP2022.\relax }}}{29}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{5}{x5-4004}{}{\numberline {6}{\ignorespaces Acto de apertura del congreso HYP2022.\relax }}}{32}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{5}{x5-4006}{}{\numberline {7}{\ignorespaces Prof. James Glimm en su intervención por videoconferencia.\relax }}}{33}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{5}{x5-50002}{QQ2-5-14}{II Premio Peter Lax}}{33}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{5}{x5-5002}{}{\numberline {8}{\ignorespaces Maria Colombo, galardonada con el II Premio Peter Lax.\relax }}}{33}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{5}{x5-60002}{QQ2-5-16}{II Conferencia James Glimm}}{34}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{5}{x5-6002}{}{\numberline {9}{\ignorespaces Benoît Perthame, galardonado con el II Conferencia James Glimm.\relax }}}{34}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{5}{x5-70002}{QQ2-5-18}{Premio Springer a las mejores contribuciones orales realizadas por estudiantes de doctorado}}{34}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{5}{x5-7002}{}{\numberline {10}{\ignorespaces Alessia del Grosso, galardonada con el premio Springer a la mejor contribución oral realizada por estudiantes de doctorado.\relax }}}{36}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{5}{x5-80002}{QQ2-5-20}{Conferencias plenarias}}{37}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{5}{x5-90002}{QQ2-5-21}{Conferencias semiplenarias}}{38}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{5}{x5-100002}{QQ2-5-22}{Comunicaciones orales y p\'osteres}}{38}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{5}{x5-10002}{}{\numberline {11}{\ignorespaces Prof. Philip Roe presentando una comunicación oral en el HYP2022.\relax }}}{39}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{5}{x5-110002}{QQ2-5-24}{Actos sociales}}{39}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{5}{x5-11002}{}{\numberline {12}{\ignorespaces Imagen de la Cena de Gala del congreso HYP2022.\relax }}}{39}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{5}{x5-11004}{}{\numberline {13}{\ignorespaces Comunicación de la sede para el HYP2024.\relax }}}{41}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{6}{x6-120003}{QQ2-6-27}{Noticias}}{44}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{6}{x6-130003.1}{QQ2-6-28}{Asamblea General de la SEMA 2022}}{44}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-13002}{}{\numberline {14}{\ignorespaces Manuel J. Castro Díaz (presidente) y Fernando de Terán Vergara (secretario) durante la Asamblea de la SEMA 2022.\relax }}}{49}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-13004}{}{\numberline {15}{\ignorespaces Manuel J. Castro Díaz recuerda la celebración del ICIAM2023 en Tokio.\relax }}}{49}\relax 
+\doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{6}{x6-140003.2}{QQ2-6-31}{Dos nuevos miembros en el Consejo Ejecutivo de la SEMA}}{51}\relax 
+\doTocEntry\tocsubsubsection{3.2.1}{\csname a:TocLink\endcsname{6}{x6-150003.2.1}{QQ2-6-32}{Luca Fanelli}}{51}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-15002}{}{\numberline {16}{\ignorespaces Prof. Luca Fanelli.\relax }}}{51}\relax 
+\doTocEntry\tocsubsubsection{3.2.2}{\csname a:TocLink\endcsname{6}{x6-160003.2.2}{QQ2-6-34}{Bego\~na Cant\'o Colomina}}{52}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-16002}{}{\numberline {17}{\ignorespaces Profa. Begoña Cantó.\relax }}}{52}\relax 
+\doTocEntry\tocsubsection{3.3}{\csname a:TocLink\endcsname{6}{x6-170003.3}{QQ2-6-36}{Nombramiento de tres nuevos correspondientes en la Secci\'on de Matem\'aticas de la RAC}}{54}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-180003.3}{QQ2-6-37}{Ver\'onica Bol\'on Canedo}}{54}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-18002}{}{\numberline {18}{\ignorespaces Verónica Bolón Canedo.\relax }}}{54}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-190003.3}{QQ2-6-39}{Alberto Enciso Carrasco}}{55}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-19002}{}{\numberline {19}{\ignorespaces Alberto Enciso Carrasco.\relax }}}{55}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-200003.3}{QQ2-6-41}{Xavier Ros Ot\'on}}{57}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-20002}{}{\numberline {20}{\ignorespaces Xavier Ros Otón.\relax }}}{57}\relax 
+\doTocEntry\tocsubsection{3.4}{\csname a:TocLink\endcsname{6}{x6-210003.4}{QQ2-6-43}{V Concurso de Modelizaci\'on Matem\'atica del Instituto de Matem\'atica Interdisciplinar (IMI)}}{58}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-21002}{}{\numberline {21}{\ignorespaces Primer Premio: Tomás Ricardo Basile (izquierda) y Jessica Andrea Gallegos (derecha), de la Universidad Nacional Autónoma de México.\relax }}}{60}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-21004}{}{\numberline {22}{\ignorespaces Segundo Premio: Sergio Sanjurjo e Irene Corral de la Universidad de Oviedo.\relax }}}{63}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-21006}{}{\numberline {23}{\ignorespaces Tercer Premio: Jorge Herranz, Adrián Gutiérrez y Enric Morellà de la Universidad Compluetense de Madrid.\relax }}}{63}\relax 
+\doTocEntry\tocsubsection{3.5}{\csname a:TocLink\endcsname{6}{x6-220003.5}{QQ2-6-47}{Adjudicadas 60 Becas Leonardo a Investigadores y Creadores Culturales 2022 de la Fundaci\'on BBVA}}{65}\relax 
+\doTocEntry\tocsubsection{3.6}{\csname a:TocLink\endcsname{6}{x6-230003.6}{QQ2-6-48}{El BCAM logra su tercera acreditaci\'on de excelencia <<Severo Ochoa>>}}{67}\relax 
+\doTocEntry\tocsubsection{3.7}{\csname a:TocLink\endcsname{6}{x6-240003.7}{QQ2-6-49}{<<Mujeres de Ciencia>>, una nueva iniciativa de la Fundaci\'on Real Academia de Ciencias}}{67}\relax 
+\doTocEntry\tocsubsection{3.8}{\csname a:TocLink\endcsname{6}{x6-250003.8}{QQ2-6-50}{Jornada sobre Doctorado Industrial en la Universidad de Sevilla, octubre 2022}}{69}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-25002}{}{\numberline {24}{\ignorespaces Mercedes Fernández Arévalo (Directora EIDUS)\relax }}}{71}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-25004}{}{\numberline {25}{\ignorespaces Lluis Alsedà (CRM)\relax }}}{74}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-25006}{}{\numberline {26}{\ignorespaces Mª Luisa Rapún (UPM)\relax }}}{77}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-25008}{}{\numberline {27}{\ignorespaces Andrés Prieto (CITMAga)\relax }}}{80}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-25010}{}{\numberline {28}{\ignorespaces Juan Valverde (Virtualmech) y José Miguel Díaz-Báñez (US)\relax }}}{83}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-25012}{}{\numberline {29}{\ignorespaces Miguel Camacho (PD Matemáticas, US)\relax }}}{86}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-25014}{}{\numberline {30}{\ignorespaces Cartel Jornada sobre Doctorado Industrial en la US\relax }}}{89}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-25016}{}{\numberline {31}{\ignorespaces Programa de la Jornada sobre Doctorado Industrial en la US\relax }}}{92}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{7}{x7-260004}{QQ2-7-59}{Anuncios}}{96}\relax 
+\doTocEntry\tocsubsection{4.1}{\csname a:TocLink\endcsname{7}{x7-270004.1}{QQ2-7-60}{Convocatoria del XXVI Premio SEMA <<Antonio Valle>> al Joven Investigador (2023)}}{96}\relax 
+\doTocEntry\tocsubsubsection{4.1.1}{\csname a:TocLink\endcsname{7}{x7-280004.1.1}{QQ2-7-61}{Pre\'ambulo}}{96}\relax 
+\doTocEntry\tocsubsubsection{4.1.2}{\csname a:TocLink\endcsname{7}{x7-290004.1.2}{QQ2-7-62}{Bases Generales}}{96}\relax 
+\doTocEntry\tocsubsubsection{4.1.3}{\csname a:TocLink\endcsname{7}{x7-300004.1.3}{QQ2-7-63}{Bases particulares de la convocatoria 2023}}{98}\relax 
+\doTocEntry\tocsubsection{4.2}{\csname a:TocLink\endcsname{7}{x7-310004.2}{QQ2-7-64}{Premio ECCOMAS a las dos mejores tesis de 2022}}{100}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{7}{x7-320004.2}{QQ2-7-65}{Candidatos}}{100}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{7}{x7-330004.2}{QQ2-7-66}{Documentaci\'on y env\IeC {\'\i }o}}{100}\relax 
+\doTocEntry\tocsubsection{4.3}{\csname a:TocLink\endcsname{7}{x7-340004.3}{QQ2-7-67}{Plaza posdoctoral en la Universidad de Pav\IeC {\'\i }a, Italia}}{102}\relax 
+\doTocEntry\tocsubsection{4.4}{\csname a:TocLink\endcsname{7}{x7-350004.4}{QQ2-7-68}{Abierto el plazo para enviar sesiones especiales al ILAS 2023}}{104}\relax 
+\doTocEntry\tocsubsection{4.5}{\csname a:TocLink\endcsname{7}{x7-360004.5}{QQ2-7-69}{Foundation of Computational Mathematics 2023}}{104}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{7}{x7-370004.5}{QQ2-7-70}{Plenary lecturers for FoCM 2023}}{105}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{7}{x7-380004.5}{QQ2-7-71}{Workshops for FoCM 2023}}{105}\relax 
+\doTocEntry\tocsubsection{4.6}{\csname a:TocLink\endcsname{7}{x7-390004.6}{QQ2-7-72}{2nd Spanish Fluid Mechanics Conference}}{107}\relax 
+\doTocEntry\tocsubsection{4.7}{\csname a:TocLink\endcsname{7}{x7-400004.7}{QQ2-7-73}{Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}}{108}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{7}{x7-410004.7}{QQ2-7-74}{Entradas en el blog}}{108}\relax 
+\doTocEntry\tocsubsection{4.8}{\csname a:TocLink\endcsname{7}{x7-420004.8}{QQ2-7-75}{Basque Center for Applied Mathematics}}{113}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{7}{x7-430004.8}{QQ2-7-76}{Scientific activities}}{113}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{7}{x7-440004.8}{QQ2-7-77}{Open positions}}{116}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{8}{x8-450005}{QQ2-8-78}{SEMA \textit  {Journal}}}{119}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{9}{x9-460006}{QQ2-9-79}{Ilustraci\'on de la portada}}{125}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{10}{x10-470007}{QQ2-10-80}{Socios institucionales}}{128}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{11}{x11-480007}{QQ2-11-81}{Hacerse socio de la SEMA es muy sencillo, y barato}}{134}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{11}{Q1-11-82}{}{Hacerse socio de la SEMA es muy sencillo, y barato}}{134}\relax 
 \par 

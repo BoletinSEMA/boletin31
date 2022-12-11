@@ -2,10 +2,6 @@
 /* start css.sty */
 .cmr-5{font-size:50%;}
 .cmr-7{font-size:70%;}
-.cmmi-7{font-size:70%;font-style: italic;}
-.cmmi-10{font-style: italic;}
-.cmsy-7{font-size:70%;}
-.ectt-1000{ font-family: monospace,monospace;}
 .ectt-1000{ font-family: monospace,monospace;}
 .ectt-1000{ font-family: monospace,monospace;}
 .ectt-1000{ font-family: monospace,monospace;}
@@ -41,22 +37,18 @@
 .ecbx-1000{ font-weight: bold;}
 .ecbx-1000{ font-weight: bold;}
 .ecbx-1000{ font-weight: bold;}
-.ecbx-1000{ font-weight: bold;}
 .cmr-17x-x-143{font-size:243%;}
 .cmr-17x-x-120{font-size:204%;}
 .cmr-17{font-size:170%;}
-.cmsy-10x-x-207{font-size:207%;}
 .ecrm-2074{font-size:200%;}
 .cmr-12x-x-120{font-size:144%;}
 .cmr-12{font-size:120%;}
 .cmmi-12x-x-120{font-size:144%;font-style: italic;}
-.cmsy-10x-x-120{font-size:120%;}
 .ecrm-1200{font-size:120%;}
 .cmr-8{font-size:80%;}
 .cmr-6{font-size:60%;}
 .ecrm-0800{font-size:80%;}
 .ectt-1200{font-size:120%; font-family: monospace,monospace;}
-.ectt-1200{ font-family: monospace,monospace;}
 .ectt-1200{ font-family: monospace,monospace;}
 .ectt-1200{ font-family: monospace,monospace;}
 .ectt-1200{ font-family: monospace,monospace;}
@@ -90,9 +82,7 @@
 .ecti-1200{ font-style: italic;}
 .ecti-1200{ font-style: italic;}
 .ecti-1200{ font-style: italic;}
-.ecti-1200{ font-style: italic;}
 .ecbx-1200{font-size:120%; font-weight: bold;}
-.ecbx-1200{ font-weight: bold;}
 .ecbx-1200{ font-weight: bold;}
 .ecbx-1200{ font-weight: bold;}
 .ecbx-1200{ font-weight: bold;}
@@ -126,8 +116,6 @@
 .ecbx-0800{ font-weight: bold;}
 .ecbx-0800{ font-weight: bold;}
 .ecbx-0800{ font-weight: bold;}
-.ecbx-0800{ font-weight: bold;}
-.ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
@@ -164,9 +152,7 @@
 .ecbi-1000{ font-weight: bold;   font-style: italic;}
 .ecbi-1000{ font-weight: bold;   font-style: italic;}
 .ecbi-1000{ font-weight: bold;   font-style: italic;}
-.ecbi-1000{ font-weight: bold;   font-style: italic;}
 .ecti-2074{font-size:200%; font-style: italic;}
-.ecti-2074{ font-style: italic;}
 .ecti-2074{ font-style: italic;}
 .ecti-2074{ font-style: italic;}
 .ecti-2074{ font-style: italic;}
@@ -200,27 +186,6 @@
 .ecbi-1200{ font-weight: bold;   font-style: italic;}
 .ecbi-1200{ font-weight: bold;   font-style: italic;}
 .ecbi-1200{ font-weight: bold;   font-style: italic;}
-.ecbi-1200{ font-weight: bold;   font-style: italic;}
-.ecbx-2074{font-size:200%; font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.ecbx-2074{ font-weight: bold;}
-.feybr-10x-x-120{font-size:120%;font-weight: bold;}
-.ecss-1000{ font-family: sans-serif;}
 .ecss-1000{ font-family: sans-serif;}
 .ecss-1000{ font-family: sans-serif;}
 .ecss-1000{ font-family: sans-serif;}
@@ -241,7 +206,6 @@
 .callig-15x-x-199{font-size:298%;}
 .callig-15x-x-165{font-size:247%;}
 .ecss-0900{font-size:90%; font-family: sans-serif;}
-.ecss-0900{ font-family: sans-serif;}
 .ecss-0900{ font-family: sans-serif;}
 .ecss-0900{ font-family: sans-serif;}
 .ecss-0900{ font-family: sans-serif;}
