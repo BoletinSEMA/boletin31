@@ -1,0 +1,37 @@
+\babel@toc {french}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Editorial}{3}{section*.2}%
+\contentsline {section}{Palabras del presidente}{5}{section*.3}%
+\contentsline {section}{\numberline {1}XXVII CEDYA / XVII CMA}{7}{section.1}%
+\contentsline {section}{\numberline {2}XVIII International Conference on Hyperbolic Problems. Theory Numerics and Applications (HYP2022)}{12}{section.2}%
+\contentsline {section}{\numberline {3}Noticias}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Asamblea General de la SEMA 2022}{19}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Dos nuevos miembros en el Consejo Ejecutivo de la SEMA}{22}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Luca Fanelli}{22}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Bego\~na Cant\'o Colomina}{23}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Nombramiento de tres nuevos correspondientes en la Secci\'on de Matem\'aticas de la RAC}{24}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}V Concurso de Modelizaci\'on Matem\'atica del Instituto de Matem\'atica Interdisciplinar (IMI)}{27}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Adjudicadas 60 Becas Leonardo a Investigadores y Creadores Culturales 2022 de la Fundaci\'on BBVA}{29}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}El BCAM logra su tercera acreditaci\'on de excelencia <<Severo Ochoa>>}{30}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}<<Mujeres de Ciencia>>, una nueva iniciativa de la Fundaci\'on Real Academia de Ciencias}{31}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Jornada sobre Doctorado Industrial en la Universidad de Sevilla, octubre 2022}{32}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Anuncios}{38}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Convocatoria del XXVI Premio SEMA <<Antonio Valle>> al Joven Investigador (2023)}{38}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Pre\'ambulo}{38}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Bases Generales}{38}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Bases particulares de la convocatoria 2023}{39}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}Premio ECCOMAS a las dos mejores tesis de 2022}{40}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Plaza posdoctoral en la Universidad de Pav\IeC {\'\i }a, Italia}{41}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Abierto el plazo para enviar sesiones especiales al ILAS 2023}{42}{subsection.4.4}%
+\babel@toc {english}{}\relax 
+\contentsline {subsection}{\numberline {4.5}Foundation of Computational Mathematics 2023}{42}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}2nd Spanish Fluid Mechanics Conference}{44}{subsection.4.6}%
+\babel@toc {spanish}{}\relax 
+\contentsline {subsection}{\numberline {4.7}Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}{45}{subsection.4.7}%
+\babel@toc {english}{}\relax 
+\contentsline {subsection}{\numberline {4.8}Basque Center for Applied Mathematics}{47}{subsection.4.8}%
+\contentsline {section}{\numberline {5}SEMA \textit {Journal}}{49}{section.5}%
+\contentsline {section}{\numberline {6}Ilustraci\'on de la portada}{51}{section.6}%
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {7}Socios institucionales}{52}{section.7}%
+\contentsline {section}{Hacerse socio de la SEMA es muy sencillo, y barato}{54}{section*.51}%
