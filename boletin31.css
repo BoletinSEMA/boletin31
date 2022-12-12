@@ -1,4 +1,18 @@
- 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+p.noindent { text-indent: 0em; text-align:justify;}
+p.indent{ text-indent: 1.5em; text-align:justify;}
+
+a {
+    color: #fb3199;
+}
+.letra-figura{font-size:75%; }
+
 /* start css.sty */
 .cmr-5{font-size:50%;}
 .cmr-7{font-size:70%;}
